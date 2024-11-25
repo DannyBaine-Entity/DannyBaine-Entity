@@ -52,6 +52,18 @@ Here are the technologies I work with:
 
 ---
 
+## GitHub Analytics
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyBaine-Entity&show_icons=true&theme=radical)
+
+![Daniel's GitHub Streak](https://streak-stats.demolab.com?user=DannyBaine-Entity&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyBaine-Entity&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DannyBaine-Entity&color=brightgreen)
+
+---
+
 ## **Connect with Me**
 - **GitHub:** [github.com/DannyBaine-Entity](https://github.com/DannyBaine-Entity)  
 - **LinkedIn:** [linkedin.com/in/apolola-daniel-8725402b1](https://www.linkedin.com/in/apolola-daniel-8725402b1)  
