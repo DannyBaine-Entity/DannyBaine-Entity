@@ -1,3 +1,7 @@
+<img src="https://github.com/DannyBaine-Entity/DannyBaine-Entity/blob/main/Anything%20worth%20Having.png?raw=true" 
+     alt="Anything Worth Having" 
+     style="max-width: 100%; height: auto;"/>
+     
 # **Daniel Apolola**
 
 Hi there! 👋 I’m **Daniel Apolola**, a passionate student of **KIBO**, based in Lagos, Nigeria. I’m deeply interested in **game development**, and I’m constantly learning and growing my skills in **programming**, **design**, and **interactive storytelling**. When I’m not coding, you’ll find me drawing, playing football, or diving into games that inspire my creative journey.
