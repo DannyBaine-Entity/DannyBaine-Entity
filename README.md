@@ -41,7 +41,7 @@ Here are the technologies I work with:
 - **Games Lounge** ([Visit Site](https://games-lounge-cc16.onrender.com)):  
    A platform designed for gamers to play and explore various games.  
    - Built using **HTML**, **CSS**, and **JavaScript**  
-   - Optimized for user-friendly navigation and engaging experiences  
+   - Optimized for user-friendly navigation and engaging experiences
 ---
 ## GitHub Analytics
 
@@ -56,7 +56,7 @@ Here are the technologies I work with:
 
 ## **Connect with Me**
 - **GitHub:** [github.com/DannyBaine-Entity](https://github.com/DannyBaine-Entity)  
-- **LinkedIn:** [linkedin.com/in/apolola-daniel-8725402b1](https://www.linkedin.com/in/apolola-daniel-8725402b1)
+- **LinkedIn:** [linkedin.com/in/apolola-daniel-8725402b1](www.linkedin.com/in/daniel-apolola-034256341)
 ---
 ## Listen to My Favorite Song 🎶
 
